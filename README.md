@@ -1,3 +1,3 @@
-# W1inter
+# RESTful Photo Gallery
 
-w1nter - is a primitive DI Container like Spring Framework.
+RESTPhotoGallery - is the simplest one-page photo gallery.
